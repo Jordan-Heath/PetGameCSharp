@@ -1,0 +1,8 @@
+C:\Dev\-VisualStudioProjects-\PetGame\PetGame\obj\Debug\net6.0-windows\PetGame.csproj.AssemblyReference.cache
+C:\Dev\-VisualStudioProjects-\PetGame\PetGame\obj\Debug\net6.0-windows\PetGameApp.MainForm.resources
+C:\Dev\-VisualStudioProjects-\PetGame\PetGame\obj\Debug\net6.0-windows\PetGame.csproj.GenerateResource.cache
+C:\Dev\-VisualStudioProjects-\PetGame\PetGame\obj\Debug\net6.0-windows\PetGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\-VisualStudioProjects-\PetGame\PetGame\obj\Debug\net6.0-windows\PetGame.AssemblyInfoInputs.cache
+C:\Dev\-VisualStudioProjects-\PetGame\PetGame\obj\Debug\net6.0-windows\PetGame.AssemblyInfo.cs
+C:\Dev\-VisualStudioProjects-\PetGame\PetGame\obj\Debug\net6.0-windows\PetGame.csproj.CoreCompileInputs.cache
+C:\Dev\-VisualStudioProjects-\PetGame\PetGame\obj\Debug\net6.0-windows\PetGame.Properties.Resources.resources
